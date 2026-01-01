@@ -1,7 +1,7 @@
-## Hi there, I'm Chanez 👋
+## Bonjour, je m’appelle Chanez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence+%7C+AI;Turning+data+into+actionable+business+insights;Data-driven+decision+making;Analytics+with+real+business+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence+%7C+IA;Transformer+les+données+en+insights+actionnables;Décision+orientée+data;Analyse+avec+un+impact+business+réel" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,75 +11,77 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-I am a **Data Analyst** with a strong interest in **Business Intelligence and Artificial Intelligence**, focused on transforming raw data into clear, reliable, and actionable insights for decision-making.
+Je suis **Data Analyst**, avec un fort intérêt pour la **Business Intelligence** et l’**Intelligence Artificielle**, et une approche orientée **prise de décision métier**.  
+Mon objectif est de transformer des données brutes en analyses claires, fiables et directement exploitables.
 
-My work emphasizes:
-- data exploration and analysis  
-- building decision-oriented dashboards  
-- understanding business needs behind the data  
-- applying analytical and AI-driven approaches to support performance and strategy  
+Mon travail se concentre sur :
+- l’exploration et l’analyse de données,  
+- la construction de tableaux de bord orientés décision,  
+- la compréhension des enjeux business derrière les données,  
+- l’utilisation d’approches analytiques et IA pour le pilotage de la performance.  
 
-In addition to my data background, I also have a **software development profile**, which allows me to better understand data pipelines, application logic, and end-to-end systems.  
-This technical foundation helps me collaborate efficiently with developers and design more robust and scalable analytical solutions.
-
----
-
-## 🔭 What I'm Currently Working On
-
-- **Business Performance Analysis:** end-to-end analysis of sales, products, and stores using Power BI  
-- **Data Modeling & BI Dashboards:** building structured data models and interactive dashboards for decision-makers  
-- **Applied Data & AI Concepts:** exploring how data analysis and AI techniques can support business optimization  
+En complément de mon profil data, je dispose également d’un **socle solide en développement logiciel**.  
+Cette double compétence me permet de mieux comprendre les pipelines de données, la logique applicative et les systèmes de bout en bout, et de collaborer efficacement avec des équipes techniques.
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Projets en cours
 
-- Applied machine learning concepts for business use cases  
-- Advanced analytical techniques for performance analysis  
-- Improving data storytelling and insight communication  
-
----
-
-## 🛠️ Technical Skillset
-
-### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
-</p>
-
-### Programming & Data Processing
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
-</p>
-
-### Business Intelligence, Analytics & AI
-<p>
-  <img src="https://img.shields.io/badge/Data%20Modeling-Experienced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/KPI%20Definition-Experienced-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-FF6B6B?style=flat">
-  <img src="https://img.shields.io/badge/AI%20Concepts-Applied-45B7D1?style=flat">
-</p>
-
-### Software Development (Supporting Skillset)
-<p>
-  <img src="https://img.shields.io/badge/C%23-Experienced-239120?style=flat&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-Core-Experienced-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-Experienced-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat&logo=typescript&logoColor=white">
-</p>
+- **Analyse de la performance commerciale** : analyse de bout en bout des ventes, produits et boutiques avec Power BI  
+- **Modélisation de données & BI** : conception de modèles structurés et de dashboards interactifs pour les décideurs  
+- **Data & IA appliquées** : exploration de cas d’usage combinant analyse de données et concepts d’intelligence artificielle  
 
 ---
 
-## 📂 Projects
+## 🌱 En cours d’apprentissage
 
-This repository contains:
-- personal and professional data analysis projects  
-- business intelligence dashboards (Power BI)  
-- applied analytics and AI-oriented use cases  
+- Concepts de machine learning appliqués à des cas métiers  
+- Méthodes analytiques avancées pour l’analyse de performance  
+- Amélioration du data storytelling et de la communication des insights  
 
-Each project focuses on transforming data into insights that support real business decisions.
+---
+
+## 🛠️ Compétences techniques
+
+### Analyse de données & Visualisation
+<p>
+  <img src="https://img.shields.io/badge/SQL-Avancé-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Avancé-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-Avancé-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-Intermédiaire-E97627?style=flat&logo=tableau&logoColor=white">
+</p>
+
+### Programmation & Traitement de données
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermédiaire-3776AB?style=flat&logo=python&logoColor=white">
+</p>
+
+### Business Intelligence, Analytics & IA
+<p>
+  <img src="https://img.shields.io/badge/Modélisation%20de%20données-Confirmé-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Définition%20de%20KPI-Confirmé-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Analyse%20statistique-Confirmé-FF6B6B?style=flat">
+  <img src="https://img.shields.io/badge/Concepts%20IA-Appliqués-45B7D1?style=flat">
+</p>
+
+### Développement logiciel (compétence support)
+<p>
+  <img src="https://img.shields.io/badge/C%23-Confirmé-239120?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-Core-Confirmé-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Confirmé-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-Intermédiaire-3178C6?style=flat&logo=typescript&logoColor=white">
+</p>
+
+---
+
+## 📂 Projets
+
+Ce repository regroupe :
+- ma présentation personnelle,  
+- des projets en analyse de données et business intelligence,  
+- des tableaux de bord Power BI,  
+- des cas d’usage analytiques et orientés IA.  
+
+Chaque projet est conçu avec une approche structurée, orientée **performance**, **compréhension métier** et **prise de décision**.
