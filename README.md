@@ -27,54 +27,66 @@ Cette double compétence me permet de mieux comprendre les pipelines de données
 
 ---
 
-## 🔭 Projets en cours
+## 📌 Projets sélectionnés
 
-- **Analyse de la performance commerciale** : analyse de bout en bout des ventes, produits et boutiques avec Power BI  
-- **Modélisation de données & BI** : conception de modèles structurés et de dashboards interactifs pour les décideurs  
-- **Data & IA appliquées** : exploration de cas d’usage combinant analyse de données et concepts d’intelligence artificielle  
+### 📊 Data Analysis & Business Intelligence
+- **Commercial Performance Analysis (Power BI)**  
+  Analyse de la performance commerciale sur les ventes, produits et boutiques, avec dashboards interactifs et insights orientés décision.
+
+- **Bank Customer Univariate Analysis**  
+  Analyse exploratoire des données clients bancaires à travers des indicateurs statistiques et visuels.
+
+- **Decision Analysis (Master Project)**  
+  Travaux analytiques réalisés dans le cadre du master, centrés sur l’aide à la décision.
+
+### 💻 Software Development (compétence complémentaire)
+- **EasyGestion – Orders & Products Management**  
+  Application web Angular / Spring Boot pour la gestion des produits et commandes.
+
+- **QuickNotes API**  
+  API .NET avec front Angular pour la gestion de notes, démontrant des compétences backend et frontend.
+
 
 ---
 
 ## 🌱 En cours d’apprentissage
 
-- Concepts de machine learning appliqués à des cas métiers  
-- Méthodes analytiques avancées pour l’analyse de performance  
-- Amélioration du data storytelling et de la communication des insights  
+- **Approfondissement de Power BI** : utilisation avancée de l’outil, conception de dashboards orientés décision et pratique régulière sur des projets concrets.  
+- **Préparation à la certification Microsoft PL-300** : révision des concepts clés, modélisation de données, DAX et bonnes pratiques Power BI, appuyées par des cours de préparation (Udemy) et des exercices pratiques.  
+- **Renforcement du data storytelling** : amélioration de la communication des analyses et des insights à travers des visualisations claires et orientées métier.  
+
+- **Développement logiciel (compétence complémentaire)** : consolidation des bases en **C# / .NET**, **Angular**, **Java** et **TypeScript**, avec une pratique régulière sur des projets applicatifs afin de maintenir une vision end-to-end des systèmes.
+
 
 ---
-
 ## 🛠️ Compétences techniques
 
 ### Analyse de données & Visualisation
 <p>
-  <img src="https://img.shields.io/badge/SQL-Avancé-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Avancé-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Avancé-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Intermédiaire-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Bonnes%20bases-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Bonnes%20bases-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-Bonnes%20bases-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
 ### Programmation & Traitement de données
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermédiaire-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Bonnes%20bases-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-### Business Intelligence, Analytics & IA
+### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Modélisation%20de%20données-Confirmé-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Définition%20de%20KPI-Confirmé-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Analyse%20statistique-Confirmé-FF6B6B?style=flat">
-  <img src="https://img.shields.io/badge/Concepts%20IA-Appliqués-45B7D1?style=flat">
+  <img src="https://img.shields.io/badge/Modélisation%20de%20données-Notions-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Définition%20de%20KPI-Notions-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Analyse%20statistique-Notions-FF6B6B?style=flat">
 </p>
 
-### Développement logiciel (compétence support)
+### Développement logiciel (compétence complémentaire)
 <p>
-  <img src="https://img.shields.io/badge/C%23-Confirmé-239120?style=flat&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-Core-Confirmé-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-Confirmé-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-Intermédiaire-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-Bonnes%20bases-239120?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-Core-Bonnes%20bases-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Bonnes%20bases-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-Notions-3178C6?style=flat&logo=typescript&logoColor=white">
 </p>
-
----
 
 ## 📂 Projets
 
