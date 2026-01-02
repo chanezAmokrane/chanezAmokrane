@@ -106,11 +106,5 @@ Cette double compétence me permet de mieux comprendre les pipelines de données
 
 
 ## 📂 Projets
+Ce repository sert de point d’entrée vers mes projets en analyse de données, business intelligence et développement logiciel.
 
-Ce repository regroupe :
-- ma présentation personnelle,  
-- des projets en analyse de données et business intelligence,  
-- des tableaux de bord Power BI,  
-- des cas d’usage analytiques et orientés IA.  
-
-Chaque projet est conçu avec une approche structurée, orientée **performance**, **compréhension métier** et **prise de décision**.
