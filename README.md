@@ -27,25 +27,16 @@ Cette double compétence me permet de mieux comprendre les pipelines de données
 
 ---
 
-## 📌 Projets sélectionnés
+## 📂 Projets sélectionnés
 
-### 📊 Data Analysis & Business Intelligence
-- **Commercial Performance Analysis (Power BI)**  
+- **[Commercial Performance Analysis (Power BI)](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale sur les ventes, produits et boutiques, avec dashboards interactifs et insights orientés décision.
 
-- **Bank Customer Univariate Analysis**  
-  Analyse exploratoire des données clients bancaires à travers des indicateurs statistiques et visuels.
+- **[Bank Customer Univariate Analysis](https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis)**  
+  Analyse exploratoire des données clients bancaires à travers des indicateurs statistiques et des visualisations.
 
-- **Decision Analysis (Master Project)**  
+- **[Decision Analysis (Master Project)](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
   Travaux analytiques réalisés dans le cadre du master, centrés sur l’aide à la décision.
-
-### 💻 Software Development (compétence complémentaire)
-- **EasyGestion – Orders & Products Management**  
-  Application web Angular / Spring Boot pour la gestion des produits et commandes.
-
-- **QuickNotes API**  
-  API .NET avec front Angular pour la gestion de notes, démontrant des compétences backend et frontend.
-
 
 ---
 
