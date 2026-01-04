@@ -9,7 +9,7 @@
   <a href="mailto:TON.EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
-<a href="https://github.com/chanezAmokrane/chanezAmokrane/raw/main/CV_Chanez_Amokrane.pdf">
+<a href="https://github.com/chanezAmokrane/chanezAmokrane/raw/main/CV_Chanez_Amokrane.pdf.pdf">
     <img src="https://img.shields.io/badge/CV-Télécharger-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
