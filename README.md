@@ -38,6 +38,9 @@ Cette double compétence me permet de mieux comprendre les pipelines de données
 - **[Commercial Performance Analysis (Power BI)](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale sur les ventes, produits et boutiques, avec dashboards interactifs et insights orientés décision.
   
+- **[Power BI – Modélisation des données (Power BI)](https://github.com/chanezAmokrane/power-bi-semantic-modeling)**  
+  Ma façon de penser la modélisation des données dans Power BI
+  
 -  **[Descriptive Statistics (Learning Project)](https://github.com/chanezAmokrane/learning-descriptive-statistics)** 
   Projet d’apprentissage sur les statistiques descriptives : indicateurs de position, dispersion et forme, avec visualisations et simulations.
 
