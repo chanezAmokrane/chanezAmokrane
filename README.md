@@ -56,8 +56,6 @@ Cette double compétence me permet de mieux comprendre les pipelines de données
 - **Préparation à la certification Microsoft PL-300** : révision des concepts clés, modélisation de données, DAX et bonnes pratiques Power BI, appuyées par des cours de préparation (Udemy) et des exercices pratiques.  
 - **Renforcement du data storytelling** : amélioration de la communication des analyses et des insights à travers des visualisations claires et orientées métier.  
 
-- **Développement logiciel (compétence complémentaire)** : consolidation des bases en **C# / .NET**, **Angular**, **Java** et **TypeScript**, avec une pratique régulière sur des projets applicatifs afin de maintenir une vision end-to-end des systèmes.
-
 
 ---
 ## 🛠️ Compétences techniques
