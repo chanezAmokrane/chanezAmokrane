@@ -1,15 +1,12 @@
-## Bonjour, je m’appelle Chanez 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence+%7C+IA;Transformer+les+données+en+insights+actionnables;Décision+orientée+data;Analyse+avec+un+impact+business+réel" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chanez-amokrane/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:TON.EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="CV_Chanez_Amokrane.pdf">
+    <img src="https://img.shields.io/badge/CV-Télécharger-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
 
