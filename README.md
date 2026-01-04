@@ -30,7 +30,7 @@ Mon travail se concentre sur :
 - la compréhension des enjeux business derrière les données,  
 - l’utilisation d’approches analytiques et IA pour le pilotage de la performance.  
 
-En complément de mon profil data, je dispose également d’un **socle solide en développement logiciel**.  
+En complément de mon profil data, je dispose également d’un **socle solide en développement Web**.  
 Cette double compétence me permet de mieux comprendre les pipelines de données, la logique applicative et les systèmes de bout en bout, et de collaborer efficacement avec des équipes techniques.
 
 ---
