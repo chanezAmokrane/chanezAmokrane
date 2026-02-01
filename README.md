@@ -11,9 +11,9 @@
   <a href="mailto:TON.EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
-  </a>
+<a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
+</a>
 </p>
 
 ---
@@ -71,19 +71,10 @@ Angular, TypeScript, JavaScript, HTML, CSS
 Power BI, SQL, Python, Tableau
 
 ### Bases de données
-SQL Server, PostgreSQL, MySQL
+SQL Server, MySQL
 
 ### Outils & environnement
 Azure DevOps, Git, VS Code, Talend
-
----
-
-## 🌱 En cours d’apprentissage
-
-- Approfondissement du développement .NET et Angular sur des projets applicatifs
-- Bonnes pratiques d’architecture et de qualité de code
-- Power BI avancé et préparation à la certification Microsoft PL-300
-- Data storytelling et communication des analyses
 
 ---
 
