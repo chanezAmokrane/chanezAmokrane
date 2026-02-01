@@ -59,6 +59,12 @@ Mon approche est orientée logique métier, qualité de code et impact business.
 
 ---
 
+## 🧾 Recommandations
+
+Retours professionnels de managers et tuteurs avec lesquels j’ai collaboré, portant sur la qualité du travail, l’autonomie et la collaboration en équipe, disponibles sur demande.
+
+---
+
 ## 🛠️ Compétences techniques
 
 ### Développement back-end
