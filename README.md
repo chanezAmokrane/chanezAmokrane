@@ -33,35 +33,36 @@ Mon approche est orientée logique métier, qualité de code et impact business.
 
 ## 💻 Projets de développement
 
-- Application Web – C# .NET & Angular  
-  Application métier complète avec un back-end en .NET (API REST) et un front-end Angular.  
-  Conception des entités, logique applicative, communication front/back, gestion des données et structuration du code.
+- **[Quicknotes – API .NET & Angular](https://github.com/chanezAmokrane/Quicknotes-api-dotnet-angular)**  
+  Application web avec un back-end en C# .NET (API REST) et un front-end Angular.  
+  Conception des entités, logique applicative, gestion des données et communication front/back.
 
-- Application & API – C# .NET  
-  Projet back-end en C# / .NET axé sur la conception d’APIs, la structuration des services, la gestion des données et la logique métier.
+- **[EasyGestion – Orders API (Angular & Spring Boot)](https://github.com/chanezAmokrane/Easygestion-orders-api-java-angular)**  
+  Application web de gestion de produits et de commandes, développée avec Angular 19 et Spring Boot 3 (Java 17), utilisant MySQL comme base de données.  
+  Implémentation des fonctionnalités CRUD, structuration du back-end et intégration front-end.
 
 ---
 
 ## 📊 Projets Data & Business Intelligence
 
-- Commercial Performance Analysis – Power BI  
+- **[Commercial Performance Analysis – Power BI](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale (ventes, produits, boutiques) avec dashboards interactifs et indicateurs orientés décision.
 
-- Power BI – Modélisation des données  
+- **[Power BI – Modélisation des données](https://github.com/chanezAmokrane/power-bi-semantic-modeling)**  
   Approche personnelle de la modélisation sémantique et des bonnes pratiques Power BI.
 
-- Bank Customer Univariate Analysis  
+- **[Bank Customer Univariate Analysis](https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis)**  
   Analyse exploratoire de données clients bancaires à l’aide d’indicateurs statistiques et de visualisations.
 
-- Decision Analysis – Master Project  
-  Travaux analytiques orientés aide à la décision réalisés dans le cadre du master.
+- **[Decision Analysis – Master Project](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
+  Travaux analytiques orientés aide à la décision réalisés dans le cadre du master
 
 ---
 
 ## 🛠️ Compétences techniques
 
 ### Développement back-end
-C#, .NET Core, APIs REST
+C#, .NET Core, APIs REST, Java (Spring Boot)
 
 ### Développement front-end
 Angular, TypeScript, JavaScript, HTML, CSS
