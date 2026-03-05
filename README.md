@@ -1,7 +1,7 @@
 ## Bonjour, je m’appelle Chanez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Data+Analyst+%26+Business+Intelligence;Analyse+de+donn%C3%A9es+et+reporting+d%C3%A9cisionnel;SQL+%7C+Power+BI+%7C+Talend;Profil+hybride+Data+%26+Développement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Développeuse+C%23+%2F+.NET+%26+Angular;Applications+métiers+et+APIs+robustes;Sensibilité+Data+%26+Business+Intelligence;Code+orienté+logique+métier+et+impact+business" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,22 +11,35 @@
   <a href="mailto:TON.EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
-  </a>
+<a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
+</a>
 </p>
 
 ---
 
-## À propos de moi
+## 🚀 À propos de moi
 
-Je suis spécialisée dans l’analyse de données et la Business Intelligence, avec une expérience dans la structuration, l’analyse et la valorisation des données pour aider les équipes métier à mieux piloter leur activité.
+Développeuse avec un Master en Data & Intelligence Artificielle, je m’intéresse particulièrement aux projets où la technologie, la donnée et les besoins métier se rencontrent.
 
-Au cours de mes projets, j’ai travaillé sur la collecte, la transformation et l’analyse de données ainsi que sur la création de tableaux de bord décisionnels permettant de suivre des indicateurs clés et d’identifier des tendances.
+Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 
-En parallèle, mon expérience en développement (C#, .NET, Angular) me permet de comprendre les systèmes applicatifs, les flux de données et les contraintes techniques, ce qui facilite la collaboration entre équipes techniques et métiers.
+🔎 Savoir  
+Une formation en Data & IA qui m’a permis de comprendre les enjeux liés à la donnée, à son analyse et à son utilisation dans les systèmes d’information.
 
-Je m’intéresse particulièrement aux projets où la donnée, la compréhension des besoins métiers et la technologie se rencontrent pour créer de la valeur.
+⚙️ Savoir-faire  
+Une expérience en développement (C#, .NET, Angular) ainsi que des projets impliquant manipulation de données, SQL, ETL et création de tableaux de bord.
+
+🤝 Savoir-être  
+Curieuse, rigoureuse et à l’aise dans le travail en équipe. J’apprécie particulièrement comprendre les problématiques métier derrière les solutions techniques.
+
+📢 Faire savoir  
+J’aime expliquer, restituer et rendre la donnée compréhensible pour les équipes métier afin qu’elle puisse réellement servir à la décision.
+
+📈 Savoir évoluer  
+Le domaine de l’informatique et de la donnée évolue rapidement. J’accorde donc une importance particulière à la veille, à l’apprentissage continu et à la capacité d’adaptation afin de suivre les nouvelles tendances et les évolutions technologiques.
+
+
 ---
 
 ## 💻 Projets de développement
