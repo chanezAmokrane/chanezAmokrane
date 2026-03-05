@@ -23,13 +23,13 @@ Développeuse avec un Master en Data & Intelligence Artificielle, je m’intére
 Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 
 🔎 Savoir  
-Une formation en Data & IA qui m’a permis de comprendre les enjeux liés à la donnée, à son analyse et à son utilisation dans les systèmes d’information.
+Une formation en génie logiciel (Master en Algérie) complétée par un Master en Data & Intelligence Artificielle en France, qui m’a permis de comprendre les systèmes applicatifs et les enjeux liés à l’analyse des données.
 
 ⚙️ Savoir-faire  
-Une expérience en développement (C#, .NET, Angular) ainsi que des projets impliquant manipulation de données, SQL, ETL et création de tableaux de bord.
+Une expérience en développement (C#, .NET, Angular) ainsi que des projets impliquant manipulation de données, SQL et création de tableaux de bord.
 
-🤝 Savoir-être  
-Curieuse, rigoureuse et à l’aise dans le travail en équipe. J’apprécie particulièrement comprendre les problématiques métier derrière les solutions techniques.
+🤝 Savoir-être 
+J’accorde une grande importance aux échanges, à la communication et à l’écoute active. J’apprécie expliquer et partager afin de rendre les idées et les concepts plus accessibles.
 
 📢 Faire savoir  
 J’aime expliquer, restituer et rendre la donnée compréhensible pour les équipes métier afin qu’elle puisse réellement servir à la décision.
