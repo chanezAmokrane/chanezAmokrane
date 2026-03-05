@@ -1,7 +1,7 @@
 ## Bonjour, je m’appelle Chanez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Développeuse+C%23+%2F+.NET+%26+Angular;Applications+métiers+et+APIs+robustes;Sensibilité+Data+%26+Business+Intelligence;Code+orienté+logique+métier+et+impact+business" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Data+Analyst+%26+Business+Intelligence;Analyse+de+donn%C3%A9es+et+reporting+d%C3%A9cisionnel;SQL+%7C+Power+BI+%7C+Talend;Profil+hybride+Data+%26+Développement" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,24 +11,22 @@
   <a href="mailto:TON.EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
-<a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
-</a>
+  <a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
-Je suis développeuse C# / .NET et Angular, spécialisée dans la conception d’applications métiers, d’APIs et d’interfaces front robustes et maintenables.
+Je suis spécialisée dans l’analyse de données et la Business Intelligence, avec une expérience dans la structuration, l’analyse et la valorisation des données pour aider les équipes métier à mieux piloter leur activité.
 
-J’ai travaillé sur des projets couvrant l’ensemble du cycle de vie applicatif : conception, implémentation, intégration, tests et collaboration avec des équipes techniques et métier.
+Au cours de mes projets, j’ai travaillé sur la collecte, la transformation et l’analyse de données ainsi que sur la création de tableaux de bord décisionnels permettant de suivre des indicateurs clés et d’identifier des tendances.
 
-En complément de mon profil de développeuse, je dispose d’une forte sensibilité data et business intelligence.  
-Cette double compétence me permet de mieux comprendre les enjeux métier, les flux de données et les besoins décisionnels, afin de concevoir des solutions techniques réellement utiles et exploitables.
+En parallèle, mon expérience en développement (C#, .NET, Angular) me permet de comprendre les systèmes applicatifs, les flux de données et les contraintes techniques, ce qui facilite la collaboration entre équipes techniques et métiers.
 
-Mon approche est orientée logique métier, qualité de code et impact business.
-
+Je m’intéresse particulièrement aux projets où la donnée, la compréhension des besoins métiers et la technologie se rencontrent pour créer de la valeur.
 ---
 
 ## 💻 Projets de développement
