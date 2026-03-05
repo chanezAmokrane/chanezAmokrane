@@ -68,6 +68,20 @@ Le domaine de l’informatique et de la donnée évolue rapidement. J’accorde 
   Travaux analytiques orientés aide à la décision réalisés dans le cadre du master
 
 ---
+## 📊 Power BI – Learning Journey
+## 📚 Power BI – Learning Journey
+
+J’approfondis actuellement Power BI et je documente les concepts, bonnes pratiques et expérimentations que j’explore.
+
+### Thèmes explorés
+- Power BI Desktop  
+- Power Query (préparation et transformation des données)  
+- Modélisation des données  
+- DAX (mesures et indicateurs)  
+- Création de dashboards et visualisations
+
+🔗 Repository dédié :  
+[Power BI Learning Notes](https://github.com/chanezAmokrane/powerbi-learning)
 
 ## 🧾 Recommandations
 
