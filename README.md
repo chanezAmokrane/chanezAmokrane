@@ -1,7 +1,5 @@
-## Bonjour, je m’appelle Chanez 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Développeuse+C%23+%2F+.NET+%26+Angular;Applications+métiers+et+APIs+robustes;Sensibilité+Data+%26+Business+Intelligence;Code+orienté+logique+métier+et+impact+business" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Développement+%2B+Data+%2B+Compréhension+métier;Transformer+les+données+en+information+utile;Relier+technique,+données+et+besoins+métier;Construire+des+solutions+qui+ont+du+sens" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,11 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:TON.EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Contact-Email-green?style=for-the-badge&logo=gmail">
   </a>
-<a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
-</a>
+  <a href="https://github.com/chanezAmokrane/chanezAmokrane/blob/main/CV_Chanez_Amokrane.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Voir-lightgrey?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
 </p>
 
 ---
