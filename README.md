@@ -29,6 +29,7 @@ Une formation en génie logiciel (Master en Algérie) complétée par un Master 
 Une expérience en développement (C#, .NET, Angular) ainsi que des projets impliquant manipulation de données, SQL et création de tableaux de bord.
 
 🤝 Savoir-être 
+
 J’accorde une grande importance aux échanges, à la communication et à l’écoute active. J’apprécie expliquer et partager afin de rendre les idées et les concepts plus accessibles.
 
 📢 Faire savoir  
