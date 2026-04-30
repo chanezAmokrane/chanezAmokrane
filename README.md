@@ -16,24 +16,56 @@
 
 ---
 
-Data Analyst avec un background développeur et un Double Master en Data & IA.  
-Je lis les données, je construis les systèmes qui les produisent, et je restitue les insights à ceux qui en ont besoin.
+**Rigoureuse, hybride, orientée résultat.**  
+Ce que je construis a du sens — pour les données, pour les équipes, pour le business.
+
+Double Master en Data & IA · Background développeur (.NET, Angular)
 
 ---
 
 ## Stack technique
 
-**Data & BI**  
-`Power BI` `DAX` `Power Query` `Python` `Pandas` `Tableau` `Machine Learning` `NLP`
+**Data & BI**
 
-**Développement**  
-`C#` `.NET Core` `Angular` `Java` `Spring Boot` `JavaScript` `Vue.js` `API REST` `Blazor`
+<span style="background:#EEEDFE;color:#3C3489;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Power BI</span>
+<span style="background:#EEEDFE;color:#3C3489;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">DAX</span>
+<span style="background:#EEEDFE;color:#3C3489;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Power Query</span>
+<span style="background:#E1F5EE;color:#085041;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Python</span>
+<span style="background:#E1F5EE;color:#085041;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Pandas</span>
+<span style="background:#E1F5EE;color:#085041;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Tableau</span>
+<span style="background:#E1F5EE;color:#085041;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Machine Learning</span>
+<span style="background:#E1F5EE;color:#085041;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">NLP</span>
 
-**Bases de données**  
-`SQL Server` `MySQL` `PostgreSQL`
+<br/><br/>
 
-**Outils**  
-`Git` `Azure DevOps` `Talend` `Postman` `Jira`
+**Développement**
+
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">C#</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">.NET Core</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Angular</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Java</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Spring Boot</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">JavaScript</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Vue.js</span>
+<span style="background:#FAECE7;color:#712B13;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">API REST</span>
+
+<br/><br/>
+
+**Bases de données**
+
+<span style="background:#FBEAF0;color:#72243E;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">SQL Server</span>
+<span style="background:#FBEAF0;color:#72243E;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">MySQL</span>
+<span style="background:#FBEAF0;color:#72243E;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">PostgreSQL</span>
+
+<br/><br/>
+
+**Outils**
+
+<span style="background:#F1EFE8;color:#444441;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Git</span>
+<span style="background:#F1EFE8;color:#444441;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Azure DevOps</span>
+<span style="background:#F1EFE8;color:#444441;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Talend</span>
+<span style="background:#F1EFE8;color:#444441;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Postman</span>
+<span style="background:#F1EFE8;color:#444441;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:500;margin:2px;display:inline-block">Jira</span>
 
 ---
 
@@ -98,5 +130,7 @@ Gestion produits & commandes · Angular 19 + Spring Boot 3 + MySQL
 <div align="center">
 
 **chanezamokrane9706@gmail.com · [LinkedIn](https://www.linkedin.com/in/chanez-amokrane/)**
+
+*La donnée ne parle pas d'elle-même. Il faut quelqu'un pour la traduire.*
 
 </div>
