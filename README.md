@@ -48,20 +48,14 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 ## 🛠️ Compétences techniques
 
-### Développement back-end
-C#, .NET Core, APIs REST, Java (Spring Boot)
+| Domaine | Technologies |
+|---|---|
+| **Développement back-end** | C#, .NET Core, APIs REST, Java, Spring Boot |
+| **Développement front-end** | Angular, TypeScript, JavaScript, HTML, CSS |
+| **Data & Business Intelligence** | Power BI, DAX, Power Query, Python, Tableau, SQL |
+| **Bases de données** | SQL Server, MySQL, PostgreSQL |
+| **Outils & environnement** | Azure DevOps, Git, VS Code, Talend, Postman, Jira |
 
-### Développement front-end
-Angular, TypeScript, JavaScript, HTML, CSS
-
-### Data & Business Intelligence
-Power BI, SQL, Python, Tableau
-
-### Bases de données
-SQL Server, MySQL
-
-### Outils & environnement
-Azure DevOps, Git, VS Code, Talend
 
 ---
 
