@@ -22,7 +22,6 @@ Développeuse avec un Master en Data & Intelligence Artificielle, je m'intéress
 
 Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 
-Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 <details>
 <summary>🔎 Savoir</summary>
 Une formation en génie logiciel (Master en Algérie) complétée par un Master en Data & Intelligence Artificielle en France, qui m'a permis de comprendre les systèmes applicatifs et les enjeux liés à l'analyse des données.
