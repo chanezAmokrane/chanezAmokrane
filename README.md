@@ -32,6 +32,17 @@
 
 ---
 
+
+## Stack
+
+| Data & BI | Dev | Bases de données | Outils |
+|---|---|---|---|
+| Power BI · DAX | C# · .NET · Angular | SQL Server · MySQL | Git · Azure DevOps |
+| Python · Pandas | Java · Spring Boot | PostgreSQL | Talend · Postman |
+| Tableau · ML | JavaScript · Vue.js | | Jira · VS Code |
+
+---
+
 ## En ce moment
 
 🔥 &nbsp;**Maîtrise en cours** &nbsp;— Power BI avancé · DAX · Time Intelligence · Modélisation  
@@ -95,16 +106,6 @@ Gestion produits & commandes · Angular 19 + Spring Boot 3 + MySQL
 | Power BI Service & publication | 🔄 En cours |
 
 → [Repository dédié](https://github.com/chanezAmokrane/powerbi-learning)
-
----
-
-## Stack
-
-| Data & BI | Dev | Bases de données | Outils |
-|---|---|---|---|
-| Power BI · DAX | C# · .NET · Angular | SQL Server · MySQL | Git · Azure DevOps |
-| Python · Pandas | Java · Spring Boot | PostgreSQL | Talend · Postman |
-| Tableau · ML | JavaScript · Vue.js | | Jira · VS Code |
 
 ---
 
