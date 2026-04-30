@@ -50,7 +50,7 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 | Domaine | Technologies |
 |---|---|
-| **Développement back-end** | C#, .NET Core, APIs REST, Java, Spring Boot |
+| **Développement back-end** | C#, .NET Core, APIs REST |
 | **Développement front-end** | Angular, TypeScript, JavaScript, HTML, CSS |
 | **Data & Business Intelligence** | Power BI, DAX, Power Query, Python, Tableau, SQL |
 | **Bases de données** | SQL Server, MySQL, PostgreSQL |
