@@ -22,20 +22,28 @@ Développeuse avec un Master en Data & Intelligence Artificielle, je m'intéress
 
 Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 
-🔎 Savoir  
+Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
+<details>
+<summary>🔎 Savoir</summary>
 Une formation en génie logiciel (Master en Algérie) complétée par un Master en Data & Intelligence Artificielle en France, qui m'a permis de comprendre les systèmes applicatifs et les enjeux liés à l'analyse des données.
-
-⚙️ Savoir-faire  
+</details>
+<details>
+<summary>⚙️ Savoir-faire</summary>
 Une expérience en développement (C#, .NET, Angular) ainsi que des projets impliquant manipulation de données, SQL et création de tableaux de bord.
-
-🤝 Savoir-être  
+</details>
+<details>
+<summary>🤝 Savoir-être</summary>
 J'accorde une grande importance aux échanges, à la communication et à l'écoute active. J'apprécie expliquer et partager afin de rendre les idées et les concepts plus accessibles.
-
-📢 Faire savoir  
+</details>
+<details>
+<summary>📢 Faire savoir</summary>
 J'aime expliquer, restituer et rendre la donnée compréhensible pour les équipes métier afin qu'elle puisse réellement servir à la décision.
-
-📈 Savoir évoluer  
+</details>
+<details>
+<summary>📈 Savoir évoluer</summary>
 Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc une importance particulière à la veille, à l'apprentissage continu et à la capacité d'adaptation afin de suivre les nouvelles tendances et les évolutions technologiques.
+</details>
+
 
 ---
 
