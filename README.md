@@ -55,6 +55,8 @@ Le domaine de l’informatique et de la donnée évolue rapidement. J’accorde 
 
 ## 📊 Projets Data & Business Intelligence
 
+* __[Superstore Power BI Dashboard](https://github.com/chanezAmokrane/superstore-powerbi-dashboard)__ Dashboard Power BI interactif analysant les performances commerciales (CA, profit, produits, régions) basé sur le dataset Global Superstore.
+
 - **[Commercial Performance Analysis – Power BI](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale (ventes, produits, boutiques) avec dashboards interactifs et indicateurs orientés décision.
 
