@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Dev+%2B+Data+%2B+M%C3%A9tier+%3D+un+profil+qui+parle+toutes+les+langues.;Je+ne+fais+pas+que+des+dashboards.+Je+r%C3%A9ponds+%C3%A0+des+questions." alt="Typing SVG" />
-
-<br/>
-
 <a href="https://www.linkedin.com/in/chanez-amokrane/">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,34 +16,24 @@
 
 ---
 
-## Ce qui me différencie
-
-<div align="center">
-
-| ⚙️ Développement | 📊 Data & BI | 💬 Métier |
-|:---:|:---:|:---:|
-| Je construis les systèmes | Je transforme les données | Je restitue les insights |
-
-</div>
+Data Analyst avec un background développeur et un Double Master en Data & IA.  
+Je lis les données, je construis les systèmes qui les produisent, et je restitue les insights à ceux qui en ont besoin.
 
 ---
 
+## Stack technique
 
-## Stack
+**Data & BI**  
+`Power BI` `DAX` `Power Query` `Python` `Pandas` `Tableau` `Machine Learning` `NLP`
 
-| Data & BI | Dev | Bases de données | Outils |
-|---|---|---|---|
-| Power BI · DAX | C# · .NET · Angular | SQL Server · MySQL | Git · Azure DevOps |
-| Python · Pandas | Java · Spring Boot | PostgreSQL | Talend · Postman |
-| Tableau · ML | JavaScript · Vue.js | | Jira · VS Code |
+**Développement**  
+`C#` `.NET Core` `Angular` `Java` `Spring Boot` `JavaScript` `Vue.js` `API REST` `Blazor`
 
----
+**Bases de données**  
+`SQL Server` `MySQL` `PostgreSQL`
 
-## En ce moment
-
-🔥 &nbsp;**Maîtrise en cours** &nbsp;— Power BI avancé · DAX · Time Intelligence · Modélisation  
-📐 &nbsp;**Pratique** &nbsp;— Projets BI end-to-end sur des datasets métier réels  
-📌 &nbsp;**Objectif** &nbsp;— Des dashboards qui déclenchent de vraies décisions  
+**Outils**  
+`Git` `Azure DevOps` `Talend` `Postman` `Jira`
 
 ---
 
@@ -109,20 +95,8 @@ Gestion produits & commandes · Angular 19 + Spring Boot 3 + MySQL
 
 ---
 
-## Mon approche
-
-```
-① COMPRENDRE  →  Je pose les bonnes questions avant d'ouvrir un fichier.
-② CONSTRUIRE  →  Je modélise proprement avant de faire un visuel.
-③ RESTITUER   →  Je transforme un résultat technique en insight actionnable.
-```
-
----
-
 <div align="center">
 
 **chanezamokrane9706@gmail.com · [LinkedIn](https://www.linkedin.com/in/chanez-amokrane/)**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&lines=La+donn%C3%A9e+ne+parle+pas+d'elle-m%C3%AAme.+Il+faut+quelqu'un+pour+la+traduire." alt="Footer" />
 
 </div>
