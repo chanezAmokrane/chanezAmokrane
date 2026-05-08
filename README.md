@@ -73,27 +73,28 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 ## 📊 Projets Data & Business Intelligence
 
-- **[Commercial Performance Analysis – Power BI](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
+- <a href="https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-" target="_blank">Commercial Performance Analysis – Power BI</a>  
   Analyse de la performance commerciale (ventes, produits, boutiques) avec dashboards interactifs et indicateurs orientés décision.
 
-- **[IBM HR Analytics – Power BI Dashboard](https://github.com/chanezAmokrane/hr-analytics-powerbi-dashboard)**  
+- <a href="https://github.com/chanezAmokrane/hr-analytics-powerbi-dashboard" target="_blank">IBM HR Analytics – Power BI Dashboard</a>  
   Conception d'un dashboard Power BI pour analyser l'attrition RH sur 1 470 employés. Identification des profils à risque et des facteurs de départ.
 
-- **[Superstore Sales – Power BI Advanced](https://github.com/chanezAmokrane/superstore-sales-powerbi-advanced)**  
+- <a href="https://github.com/chanezAmokrane/superstore-sales-powerbi-advanced" target="_blank">Superstore Sales – Power BI Advanced</a>  
   Modélisation multi-tables et DAX avancé sur le dataset Superstore. Schéma en étoile, Time Intelligence, RANKX et analyses de rentabilité.
 
-- **[Superstore Power BI Dashboard](https://github.com/chanezAmokrane/superstore-powerbi-dashboard)**  
+- <a href="https://github.com/chanezAmokrane/superstore-powerbi-dashboard" target="_blank">Superstore Power BI Dashboard</a>  
   Dashboard Power BI interactif analysant les performances commerciales (CA, profit, produits, régions) basé sur le dataset Global Superstore.
 
-- **[Power BI – Modélisation des données](https://github.com/chanezAmokrane/power-bi-semantic-modeling)**  
+- <a href="https://github.com/chanezAmokrane/power-bi-semantic-modeling" target="_blank">Power BI – Modélisation des données</a>  
   Approche personnelle de la modélisation sémantique et des bonnes pratiques Power BI.
 
-- **[Bank Customer Univariate Analysis](https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis)**  
+- <a href="https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis" target="_blank">Bank Customer Univariate Analysis</a>  
   Analyse exploratoire de données clients bancaires à l'aide d'indicateurs statistiques et de visualisations.
 
-- **[Decision Analysis – Master Project](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
+- <a href="https://github.com/chanezAmokrane/data-analysis-master-choice" target="_blank">Decision Analysis – Master Project</a>  
   Travaux analytiques orientés aide à la décision réalisés dans le cadre du master.
----
+
+  ---
 
 ## 📊 Power BI – Learning Journey
 
