@@ -18,7 +18,7 @@
 
 ## 🚀 À propos de moi
 
-Développeuse avec un Master en Data & Intelligence Artificielle, je m'intéresse particulièrement aux projets où la technologie, la donnée et les besoins métier se rencontrent.
+Data Analyst avec un Master en Data & Intelligence Artificielle et un background en développement C# / .NET, je mets la donnée au service des décisions métier grâce à Power BI, SQL, Snowflake et dbt.
 
 Mon parcours se construit autour de cinq dimensions qui guident ma façon de travailler :
 
@@ -73,27 +73,26 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 ## 📊 Projets Data & Business Intelligence
 
-- <a href="https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-" target="_blank">Commercial Performance Analysis – Power BI</a>  
+- **[Commercial Performance Analysis – Power BI](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale (ventes, produits, boutiques) avec dashboards interactifs et indicateurs orientés décision.
 
-- <a href="https://github.com/chanezAmokrane/hr-analytics-powerbi-dashboard" target="_blank">IBM HR Analytics – Power BI Dashboard</a>  
+- **[IBM HR Analytics – Power BI Dashboard](https://github.com/chanezAmokrane/hr-analytics-powerbi-dashboard)**  
   Conception d'un dashboard Power BI pour analyser l'attrition RH sur 1 470 employés. Identification des profils à risque et des facteurs de départ.
 
-- <a href="https://github.com/chanezAmokrane/superstore-sales-powerbi-advanced" target="_blank">Superstore Sales – Power BI Advanced</a>  
+- **[Superstore Sales – Power BI Advanced](https://github.com/chanezAmokrane/superstore-sales-powerbi-advanced)**  
   Modélisation multi-tables et DAX avancé sur le dataset Superstore. Schéma en étoile, Time Intelligence, RANKX et analyses de rentabilité.
 
-- <a href="https://github.com/chanezAmokrane/superstore-powerbi-dashboard" target="_blank">Superstore Power BI Dashboard</a>  
+- **[Superstore Power BI Dashboard](https://github.com/chanezAmokrane/superstore-powerbi-dashboard)**  
   Dashboard Power BI interactif analysant les performances commerciales (CA, profit, produits, régions) basé sur le dataset Global Superstore.
 
-- <a href="https://github.com/chanezAmokrane/power-bi-semantic-modeling" target="_blank">Power BI – Modélisation des données</a>  
+- **[Power BI – Modélisation des données](https://github.com/chanezAmokrane/power-bi-semantic-modeling)**  
   Approche personnelle de la modélisation sémantique et des bonnes pratiques Power BI.
 
-- <a href="https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis" target="_blank">Bank Customer Univariate Analysis</a>  
+- **[Bank Customer Univariate Analysis](https://github.com/chanezAmokrane/Bank-Customer-Univariate-Analysis)**  
   Analyse exploratoire de données clients bancaires à l'aide d'indicateurs statistiques et de visualisations.
 
-- <a href="https://github.com/chanezAmokrane/data-analysis-master-choice" target="_blank">Decision Analysis – Master Project</a>  
+- **[Decision Analysis – Master Project](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
   Travaux analytiques orientés aide à la décision réalisés dans le cadre du master.
-
   ---
 
 ## 📊 Power BI – Learning Journey
