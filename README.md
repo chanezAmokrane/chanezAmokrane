@@ -73,11 +73,17 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 ## 📊 Projets Data & Business Intelligence
 
-- **[Superstore Power BI Dashboard](https://github.com/chanezAmokrane/superstore-powerbi-dashboard)**  
-  Dashboard Power BI interactif analysant les performances commerciales (CA, profit, produits, régions) basé sur le dataset Global Superstore.
-
 - **[Commercial Performance Analysis – Power BI](https://github.com/chanezAmokrane/Commercial-Performance-Analysis-Sales-Products-Stores-Power-BI-)**  
   Analyse de la performance commerciale (ventes, produits, boutiques) avec dashboards interactifs et indicateurs orientés décision.
+
+- **[IBM HR Analytics – Power BI Dashboard](https://github.com/chanezAmokrane/hr-analytics-powerbi-dashboard)**  
+  Conception d'un dashboard Power BI pour analyser l'attrition RH sur 1 470 employés. Identification des profils à risque et des facteurs de départ.
+
+- **[Superstore Sales – Power BI Advanced](https://github.com/chanezAmokrane/superstore-sales-powerbi-advanced)**  
+  Modélisation multi-tables et DAX avancé sur le dataset Superstore. Schéma en étoile, Time Intelligence, RANKX et analyses de rentabilité.
+
+- **[Superstore Power BI Dashboard](https://github.com/chanezAmokrane/superstore-powerbi-dashboard)**  
+  Dashboard Power BI interactif analysant les performances commerciales (CA, profit, produits, régions) basé sur le dataset Global Superstore.
 
 - **[Power BI – Modélisation des données](https://github.com/chanezAmokrane/power-bi-semantic-modeling)**  
   Approche personnelle de la modélisation sémantique et des bonnes pratiques Power BI.
@@ -87,7 +93,6 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 - **[Decision Analysis – Master Project](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
   Travaux analytiques orientés aide à la décision réalisés dans le cadre du master.
-
 ---
 
 ## 📊 Power BI – Learning Journey
