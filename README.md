@@ -93,6 +93,7 @@ Le domaine de l'informatique et de la donnée évolue rapidement. J'accorde donc
 
 - **[Decision Analysis – Master Project](https://github.com/chanezAmokrane/data-analysis-master-choice)**  
   Travaux analytiques orientés aide à la décision réalisés dans le cadre du master.
+  
   ---
 
 ## 📊 Power BI – Learning Journey
